@@ -5,3 +5,24 @@ languageCode = "en-us"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
