@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/tags/culture/</guid>
       <description></description>
     </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Mon, 04 Feb 2013 15:55:04 -0700</pubDate>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

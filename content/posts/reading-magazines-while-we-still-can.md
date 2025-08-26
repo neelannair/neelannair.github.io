@@ -1,8 +1,10 @@
-+++
-date = '2012-04-01T15:38:42-07:00'
-draft = false
-title = 'Reading Magazines While We Still Can'
-+++
+---
+title: "Reading Magazines While We Still Can"
+date: 2012-04-01T15:38:42-07:00
+draft: false
+categories: ["books"]
+tags: ["books", "culture", "commerce"]
+---
 
 Ah the joy of finding a new magazine with great articles. I have found a new love – long form narrative journalism. 
 

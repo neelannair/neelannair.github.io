@@ -1,8 +1,10 @@
-+++
-date = '2013-02-04T15:55:04-07:00'
-draft = false
-title = 'The Great War for Civilization (Book Review)'
-+++
+---
+title: "The Great War for Civilization (Book Review)"
+date: 2013-02-04T15:55:04-07:00
+draft: false
+categories: ["books"]
+tags: ["books", "history"]
+---
 
 **_by Robert Fisk_**
 
