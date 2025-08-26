@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neelan Nair</title>
+    <title>neelannair</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Neelan Nair</description>
+    <description>Recent content on neelannair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 14:35:39 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 14:43:31 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Asynchronous Communication</title>
+      <link>http://localhost:1313/posts/effective-asynchronous-communication/</link>
+      <pubDate>Tue, 26 Aug 2025 14:43:31 -0700</pubDate>
+      <guid>http://localhost:1313/posts/effective-asynchronous-communication/</guid>
+      <description>&lt;p&gt;I’ve spent the last 15 years working with teams and direct reports spread across geographies and time zones. One of the hardest lessons: communication is difficult. While working in the US, every back-and-forth with a colleague in APAC, for example, can cost an entire day. Over time, I’ve developed habits that make asynchronous communication more effective—and, for me, these have become the default way to communicate.&lt;/p&gt;&#xA;&lt;p&gt;Here are some principles I’ve learned:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello Hugo</title>
       <link>http://localhost:1313/posts/hello-hugo/</link>
@@ -20,7 +27,7 @@
       <link>http://localhost:1313/posts/hitler-nemesis-book-review/</link>
       <pubDate>Sat, 04 Jan 2014 15:55:04 -0700</pubDate>
       <guid>http://localhost:1313/posts/hitler-nemesis-book-review/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;by Ian Kershaw&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In an attempt to better understand Hitler’s character and maybe pick up some interesting new stories, I started reading another tome, Hitler - Nemesis (1936-45) by Ian Kershaw.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/hitler-nemesis.jpg&#34; alt=&#34;Hitler Nemesis Book Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a very dense book, with long chapters and a lot of citations. Its not light reading and took me a year or so of reading it off and on to complete.&lt;/p&gt;&#xA;&lt;p&gt;One aspect of the story is Kershaw’s theory that a great majority of the German people were indeed in support for a majority of Hitler’s plans. Like all things in history, this is not something I can agree with wholeheartedly because it is a theory and there are those that don’t think it to be the case. The concept of ‘working towards the führer’ where, though there was no direct command from Hitler for most of the atrocities of the war, the machinery of the government filled out the blanks left by Hitler’s vague comments.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;by Ian Kershaw&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In an attempt to better understand Hitler’s character and maybe pick up some interesting new stories, I started reading another tome, Hitler - Nemesis (1936-45) by Ian Kershaw.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/hitler-nemesis.png&#34; alt=&#34;Hitler Nemesis Book Cover&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a very dense book, with long chapters and a lot of citations. Its not light reading and took me a year or so of reading it off and on to complete.&lt;/p&gt;&#xA;&lt;p&gt;One aspect is Kershaw’s theory that a great majority of the German people were indeed in support for a majority of Hitler’s plans. Like all things in history, this is not something I can agree with wholeheartedly because it is a theory and there are those that don’t think it to be the case. The concept of &lt;a href=&#34;https://en.wikipedia.org/wiki/Ian_Kershaw#%22Working_Towards_the_F%C3%BChrer%22_concept&#34;&gt;‘working towards the führer’&lt;/a&gt;where, though there was no direct command from Hitler for most of the atrocities of the war, the machinery of the government filled out the blanks left by Hitler’s vague comments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Death of a Bookshop</title>

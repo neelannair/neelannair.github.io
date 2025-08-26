@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on neelannair</title>
+    <link>http://localhost:1313/tags/communication/</link>
+    <description>Recent content in Communication on neelannair</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Aug 2025 14:43:31 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effective Asynchronous Communication</title>
+      <link>http://localhost:1313/posts/effective-asynchronous-communication/</link>
+      <pubDate>Tue, 26 Aug 2025 14:43:31 -0700</pubDate>
+      <guid>http://localhost:1313/posts/effective-asynchronous-communication/</guid>
+      <description>&lt;p&gt;I’ve spent the last 15 years working with teams and direct reports spread across geographies and time zones. One of the hardest lessons: communication is difficult. While working in the US, every back-and-forth with a colleague in APAC, for example, can cost an entire day. Over time, I’ve developed habits that make asynchronous communication more effective—and, for me, these have become the default way to communicate.&lt;/p&gt;&#xA;&lt;p&gt;Here are some principles I’ve learned:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
